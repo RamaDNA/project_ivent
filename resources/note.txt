@@ -1,0 +1,7 @@
+bagian login/logout tidak responsive mending ganti ke yang biasa; undone;
+gambar tidak responsive atau tidak menyesuaikan; undone;
+design signUp lebih baik menggunakan modal pop up; undone;
+
+
+wajib selesai 1 minggu-2minggu;
+next buat login multi User; undone;

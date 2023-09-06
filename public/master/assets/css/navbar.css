@@ -1,0 +1,11 @@
+.main-dashboard{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.col img{
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
